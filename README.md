@@ -9,7 +9,8 @@ Hi, I'm Ramon 👋
 <img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/79784fbf-a981-491c-b2a4-0fd36164d076" />
 <img width="47" height="20" alt="image" src="https://github.com/user-attachments/assets/aaa901a7-c28d-4ce0-afc0-c2df7a19b336" />
 <img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/8969d6d9-f5f5-4eee-8b13-c0544c5b4a88" />
-<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/def03a30-f755-4cfb-ab28-f8da3c4f7632" />
+<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/970f58f9-0fb0-4f50-9021-7d60448bfb16" />
+
 <img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/7c08860c-6f65-469e-ba40-c8eea5b1c6d1" />
 
 
