@@ -61,9 +61,36 @@ I'm interested in coffee, coding, 🤖 building
 <img width="91" height="20" alt="image" src="https://github.com/user-attachments/assets/4e5f9749-f403-47a0-b6a8-ec44c1d75bc8" />
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/9d3a749c-88dc-4bd2-a941-f2207e1361e5" />
 
+
+<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/24fd9ff8-b1d4-4db7-8eb5-84edbd2abafc" />
+
+<img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/a830e22b-ab2d-4ad5-abf8-51bd19e007a1" />
+
+<img width="109" height="28" alt="image" src="https://github.com/user-attachments/assets/04f10d8a-895f-41b7-b33a-6bf9972983ac" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/1136f2ab-e324-481e-9ce9-73b6e35721b8" />
+
+<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/c6ada0e8-d9ba-4923-8526-9aeb0731e594" />
+
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/5d8972a8-4c3c-4d1e-9208-5e3a3f8ec6cc" />
+
+<img width="134" height="28" alt="image" src="https://github.com/user-attachments/assets/70d9960d-e0e6-4fef-9827-1f9025ac5555" />
+
+<img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/153731c8-00b8-41e0-97a3-efa4befd3108" />
+
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/2a54c0a3-54c0-4426-b6e7-8ba72a607a9c" />
+
+
 Swift TypeScript JavaScript Node.js Codex Claude CLI macOS SwiftUI Web
+
+
 
 The modern web feels like a breath of fresh air. 
 
+
+
 Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. 
+
+
+
+
 <img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/7122e8fd-50df-445f-aeeb-1238c8b390d4" />
