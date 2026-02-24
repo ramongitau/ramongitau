@@ -21,3 +21,4 @@ Swift TypeScript JavaScript Node.js Codex Claude CLI macOS SwiftUI Web
 The modern web feels like a breath of fresh air. 
 
 Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. 
+<img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/7122e8fd-50df-445f-aeeb-1238c8b390d4" />
