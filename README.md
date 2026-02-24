@@ -1,5 +1,16 @@
-Hi, I'm Ramon 👋
-📍 Nairobi  ↔ Kenya | 🤖 builder | 🚀 FishHook Agency Founder
+🖐️ About Me
+
+Hi, 
+
+My full name is Ramon Gitau👋
+Open to tech collaboration and exploring new ideas in cloud computing.
+Builder//Full-stack Development
+Primary Focus: Google Cloud Platform (GCP)—designing scalable and secure architectures.
+I'm interested in coding, sleeping, and 🤖 building
+
+📍 Nairobi  ↔ Kenya |  | 🚀 FishHook Agency Founder
+<img width="1166" height="184" alt="image" src="https://github.com/user-attachments/assets/e70f13ef-49ce-4a14-9552-655e94979ade" />
+
 
 <img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/90787e10-a4ed-4daa-ac4f-81aaa7a58351" />
 
@@ -52,3 +63,9 @@ The modern web feels like a breath of fresh air.
 
 Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. 
 <img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/7122e8fd-50df-445f-aeeb-1238c8b390d4" />
+
+
+
+
+![Uploading image.png…]()
+
