@@ -11,6 +11,7 @@ Primary Focus: Google Cloud Platform (GCP)—designing scalable and secure archi
 I'm interested in coding, sleeping, and 🤖 building
 
 📍 Nairobi  ↔ Kenya |  | 🚀 FishHook Agency Founder
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://github.com/user-attachments/assets/f83b8d96-9bc8-4bad-89c5-c5111422406a)
 
 
 <img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/90787e10-a4ed-4daa-ac4f-81aaa7a58351" />
