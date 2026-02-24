@@ -8,7 +8,7 @@ My full name is Ramon Gitau👋
 Open to tech collaboration and exploring new ideas in cloud computing.
 Builder//Full-stack Development
 Primary Focus: Google Cloud Platform (GCP)—designing scalable and secure architectures.
-I'm interested in coding, 🤖 building
+I'm interested in coffee, coding, 🤖 building
 
 📍 Nairobi  ↔ Kenya |  | 🚀 FishHook Agency Founder
 
