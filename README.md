@@ -82,6 +82,7 @@ I'm interested in coffee, coding, 🤖 building
 
 Swift TypeScript JavaScript Node.js Codex Claude CLI macOS SwiftUI Web
 
+<img width="854" height="180" alt="image" src="https://github.com/user-attachments/assets/a183657d-5dd9-4615-beab-9ec8ddeac951" />
 
 
 The modern web feels like a breath of fresh air. 
